@@ -6,6 +6,8 @@
  ██╔═██╗ ██╔══██║██║     ██║
  ██║  ██╗██║  ██║███████╗██║
  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6100F7&background=0041FF00&width=435&lines=kali linuxrich features+%E2%9A%A0%EF%B8%8F+" alt="Typing SVG" /></a>
+
       
 ⚡ Kali Linux ⚡
 ~#_
